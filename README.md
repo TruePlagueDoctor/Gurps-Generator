@@ -65,7 +65,7 @@ GURPSGENERATOR/
 ### 1. Клонируем репозиторий
 
 ```bash
-git clone https://github.com/<твой-юзернейм>/GURPSGENERATOR.git
+git clone https://github.com/TruePlagueDoctor/Gurps-Generator.git
 cd GURPSGENERATOR
 ```
 
